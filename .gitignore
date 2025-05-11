@@ -1,0 +1,23 @@
+# Ignore arquivos e pastas do PyCharm
+.idea/
+*.iml
+.vscode/
+
+# Ignore ambientes virtuais
+venv/
+env/
+.env
+
+# Ignore arquivos do sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore arquivos de log
+*.log
+*.tmp
+
+# Ignore outros arquivos indesejados
+.DS_Store
+.gitignore
