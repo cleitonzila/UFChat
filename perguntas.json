@@ -1,153 +1,78 @@
 {
-      "RU": [
-        "Onde fica o Restaurante Universitário (RU)?",
+    "RU": [
+        "Onde fica o Restaurante Universitário?",
         "Como posso usar o RU?",
-        "Qual é o horário de funcionamento do Restaurante Universitário?",
-        "Como funciona o acesso ao RU?",
+        "Qual é o horário de funcionamento do RU?",
+        "Como acessar o RU?",
         "Quanto custa o almoço no RU?",
-        "Preciso de carteirinha para usar o RU?",
+        "Preciso de carteirinha para o RU?",
         "O que fazer se eu perder meu cartão do RU?",
-        "Como recarregar meu cartão do RU?",
+        "Como recarregar o cartão do RU?",
         "Quais são as opções de refeição no RU?",
-        "Posso almoçar no RU mesmo sem ser estudante?",
-        "Localização do restaurante da universidade",
-        "Como ter acesso ao bandejão?",
-        "Horário de funcionamento do refeitório",
-        "Precisa de algum documento para comer no RU?",
-        "Valor da refeição no RU",
-        "Perdi meu cartão do RU, o que eu faço?",
-        "Onde e como carregar o cartão do RU?",
-        "Cardápio do restaurante universitário",
-        "Visitantes podem usar o RU?",
+        "Posso usar o RU sem ser estudante?",
         "Onde encontro o RU no campus?",
-        "Onde posso almocar na ufc?"
-      ],
-      "matricula": [
-        "Como faço para confirmar minha matrícula?",
-        "Onde posso ver meu status de matrícula?",
+        "Como ter acesso ao bandejão?",
+        "Horário do refeitório",
+        "Documentos necessários para o RU",
+        "Valor da refeição no RU",
+        "Como carregar o cartão do RU?",
+        "Cardápio do restaurante universitário",
+        "Visitantes podem usar o RU?"
+    ],
+    "matricula": [
+        "Como confirmar minha matrícula?",
+        "Onde ver meu status de matrícula?",
         "Como descubro meu número de matrícula?",
-        "O que é o processo de matrícula?",
         "Como funciona o processo de matrícula na UFC?",
-        "Como faço para corrigir um erro na minha matrícula?",
+        "Como corrigir erro na matrícula?",
         "Como cancelar minha matrícula?",
-        "Quais documentos preciso para a matrícula?",
-        "Onde confirmo minha matrícula?",
-        "Verificação do status da matrícula",
-        "Número de matrícula, como achar?",
-        "Entender o processo de matrícula",
-        "Matrícula na UFC, como é?",
-        "Erro na matrícula, como resolver?",
-        "Quero cancelar minha matrícula, o que fazer?",
-        "Documentos necessários para se matricular"
-      ],
-      "xerox": [
-        "Onde posso tirar cópias na UFC?",
+        "Documentos para a matrícula",
+        "Onde confirmar minha matrícula?"
+    ],
+    "xerox": [
+        "Onde tirar cópias na UFC?",
         "Quanto custa tirar xerox?",
         "Onde tem gráfica no campus?",
-        "Como faço para imprimir documentos?",
-        "Quais blocos têm serviço de xerox?",
-        "Onde posso imprimir materiais de estudo?",
-        "Qual o preço para impressão colorida?",
-        "Posso imprimir diretamente do meu celular?",
-        "Lugares para tirar xerox na universidade",
-        "Preço da cópia",
-        "Onde encontrar uma gráfica?",
-        "Como imprimir um arquivo?",
-        "Blocos com máquinas de xerox",
-        "Onde imprimir trabalhos da faculdade?",
-        "Valor da impressão colorida",
-        "Imprimir pelo celular é possível?"
-      ],
-      "saudacao": [
-        "Oi",
-        "Olá",
-        "Bom dia",
-        "Boa tarde",
-        "Boa noite",
-        "E aí?",
-        "Oi, tudo bem?",
-        "Olá, tudo bom?",
-        "Fala aí",
-        "Como vai?",
-        "Oi, alguém aí?",
-        "Olá, preciso de ajuda",
-        "Oi, estou com uma dúvida",
-        "Posso fazer uma pergunta?",
-        "Olá, tem alguém para ajudar?",
-        "Oi, você está online?",
-        "Preciso de informações",
-        "Olá, pode me ajudar?",
-        "Oi, sou novo aqui",
-        "Olá, é meu primeiro dia"
-      ],
-      "perguntas_blocos": [
+        "Como imprimir documentos?",
+        "Blocos com serviço de xerox?",
+        "Onde imprimir materiais de estudo?",
+        "Preço da cópia e impressão colorida?",
+        "Posso imprimir pelo celular?"
+    ],
+    "perguntas_blocos": [
         "Onde fica o bloco da agronomia?",
         "Onde fica o curso de geografia?",
         "Qual o bloco do curso tal?",
         "Onde fica o meu curso?",
-        "Em que região fica o CT",
-        "Em que região fica o CCA?",
-        "Em que região fica o CC?",
         "Onde fica o Centro de Tecnologia?",
         "Onde fica o Centro de Ciências?",
         "Onde fica o Centro de Ciências Agrárias?",
         "Onde fica a coordenação do meu curso?",
-        "Onde é o departamento do meu curso?",
-        "Onde fica o IEFES?",
-        "Em que lugar fica a cantina da física?"
-      ],
-      "perguntas_autodeclaração": [
-        "Como fazer o vídeo de autodeclaração?"
-      ],
-      "perguntas_documentos_específicos": [
-        "Qual a documentação necessária para a matrícula com cotas?",
-        "Documentos necessários cotas raciais"
-      ],
-      "perguntas_cotas": [
-        "Como se matricular com cota/cotas?",
-        "Quais os documentos específicos para cotistas?"
-      ],
-      "perguntas_datas": [
-          "Até quando vai a matrícula?",
-          "Quais as datas de matrícula?"
-      ],
-      "perguntas_documentacao": [
-          "Qual a documentação necessária para a matrícula?"
-      ],
-      "perguntas_heteroidentificacao": [
-          "Onde e quando ocorre a heteroidentificação?"
-      ],
-      "pergunta_menor_de_idade": [
-          "Quem é menor de idade precisa ir acompanhado para a matrícula?",
-          "É necessário levar acompanhante?",
-          "Preciso ir com meus pais?",
-          "Precisa ir com meus responsáveis?"
-      ],
-      "perguntas_lista_espera": [
-          "Como entrar pela lista de espera?",
-          "Até quando vai a lista de espera?"
-      ],
-      "xerox_preco": [
+        "Onde é o departamento do meu curso?"
+    ],
+    "perguntas_cotas": [
+        "Como se matricular com cota?",
+        "Documentos específicos para cotistas?"
+    ],
+    "perguntas_datas": [
+        "Até quando vai a matrícula?",
+        "Quais as datas de matrícula?"
+    ],
+    "pergunta_menor_de_idade": [
+        "Menor de idade precisa de acompanhante na matrícula?"
+    ],
+    "perguntas_lista_espera": [
+        "Como entrar pela lista de espera?",
+        "Até quando vai a lista de espera?"
+    ],
+    "xerox_preco": [
         "Qual o preço para impressão colorida?",
         "Quanto custa tirar xerox?",
         "Preço da cópia",
-        "Quanto custa uma página?",
-        "Valor da impressão colorida",
         "Qual o preço da impressão?"
-      ],
-      "xerox_especificidades": [
-          "Quais os tamanhos disponíveis?",
-          "Na gráfica do Silvio vende banners?"
-      ],
-      "xerox_localizacao": [
-          "Onde imprimir trabalhos da faculdade?",
-          "Quais blocos têm serviço de xerox?",
-          "Como imprimir um arquivo?",
-          "Onde posso imprimir materiais de estudo?",
-          "Onde imprimir um cartaz?",
-          "Blocos com máquinas de xerox",
-          "Lugares para tirar xerox na universidade",
-          "Como faço para imprimir documentos?",
-          "Onde imprimir ou tirar xerox / xerocar algo?"
-      ]
+    ],
+    "xerox_especificidades": [
+        "Quais tamanhos de impressão disponíveis?",
+        "Gráfica do Silvio vende banners?"
+    ]
 }
